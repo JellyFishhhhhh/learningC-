@@ -1,0 +1,15 @@
+/Users/jellyfish/Documents/learningC#/learningC-/learningC-/learningC-/bin/Debug/net7.0/learningC-
+/Users/jellyfish/Documents/learningC#/learningC-/learningC-/learningC-/bin/Debug/net7.0/learningC-.deps.json
+/Users/jellyfish/Documents/learningC#/learningC-/learningC-/learningC-/bin/Debug/net7.0/learningC-.runtimeconfig.json
+/Users/jellyfish/Documents/learningC#/learningC-/learningC-/learningC-/bin/Debug/net7.0/learningC-.dll
+/Users/jellyfish/Documents/learningC#/learningC-/learningC-/learningC-/bin/Debug/net7.0/learningC-.pdb
+/Users/jellyfish/Documents/learningC#/learningC-/learningC-/learningC-/obj/Debug/net7.0/learningC-.csproj.AssemblyReference.cache
+/Users/jellyfish/Documents/learningC#/learningC-/learningC-/learningC-/obj/Debug/net7.0/learningC-.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jellyfish/Documents/learningC#/learningC-/learningC-/learningC-/obj/Debug/net7.0/learningC-.AssemblyInfoInputs.cache
+/Users/jellyfish/Documents/learningC#/learningC-/learningC-/learningC-/obj/Debug/net7.0/learningC-.AssemblyInfo.cs
+/Users/jellyfish/Documents/learningC#/learningC-/learningC-/learningC-/obj/Debug/net7.0/learningC-.csproj.CoreCompileInputs.cache
+/Users/jellyfish/Documents/learningC#/learningC-/learningC-/learningC-/obj/Debug/net7.0/learningC-.dll
+/Users/jellyfish/Documents/learningC#/learningC-/learningC-/learningC-/obj/Debug/net7.0/refint/learningC-.dll
+/Users/jellyfish/Documents/learningC#/learningC-/learningC-/learningC-/obj/Debug/net7.0/learningC-.pdb
+/Users/jellyfish/Documents/learningC#/learningC-/learningC-/learningC-/obj/Debug/net7.0/learningC-.genruntimeconfig.cache
+/Users/jellyfish/Documents/learningC#/learningC-/learningC-/learningC-/obj/Debug/net7.0/ref/learningC-.dll

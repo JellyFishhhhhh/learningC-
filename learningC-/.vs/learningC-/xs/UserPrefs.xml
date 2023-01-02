@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{89DAD837-8E4A-4822-AD05-4DDCC739625A}|Default">
+  <MonoDevelop.Ide.ItemProperties.learningC- PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="learningC-/Rectangle.cs">
+    <Files>
+      <File FileName="learningC-/Program.cs" Line="12" Column="4" />
+      <File FileName="learningC-/Rectangle.cs" Line="20" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="learningC-" expanded="True">
+            <Node name="learningC-" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
